@@ -7,11 +7,11 @@
   - Non-structured programming
   - Functional programming
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming 👂 heard
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asyncronous programming
+  - Asyncronous programming 👂 heard
   - Parallel programming
   - Reactive programming
   - FRP (Functional-reactive)
@@ -21,10 +21,10 @@
   - Metaprogramming
   - Actor model
 - OOP basics
-  - constructor
+  - constructor 👂 heard
   - new
   - Static method
-  - Method
+  - Method 👂 heard
   - Async method
   - Getters, Setters
   - Public fields
@@ -38,7 +38,7 @@
   - Encapsulation
   - Hidden class
   - Object form
-  - instance
+  - instance 👂 heard
   - Introspection
   - Reflection
 - Patterns
@@ -49,14 +49,14 @@
   - Observer
   - Strategy
   - Facade
-  - Proxy
+  - Proxy 👂 heard
   - Chain of Responsibility
-  - Command
-  - Iterator
-  - State
+  - Command 👂 heard
+  - Iterator 👂 heard
+  - State 👂 heard
   - Bridge
-  - Builder
-  - Prototype
+  - Builder 👂 heard
+  - Prototype 👂 heard
   - Composite
   - Decorator
   - Flyweight
