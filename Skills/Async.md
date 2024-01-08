@@ -22,17 +22,17 @@
   - Thread
   - Process
 - Async contracts
-  - Callbacks
+  - Callbacks 👂 heard
   - Callback-last-error-first
   - Thenable
   - Promise
-  - Async/await
+  - Async/await 👂 heard
   - Future
   - Deferred
-  - Sync generator
-  - Async Generator
-  - Async Iterator
-  - Event
+  - Sync generator 👂 heard
+  - Async Generator 👂 heard
+  - Async Iterator 👂 heard
+  - Event 👂 heard
   - Coroutine
   - Goroutine
   - Signal
@@ -59,7 +59,7 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
+  - Timers 👂 heard
   - setImmediate
   - nextTick
   - AbortController
