@@ -9,7 +9,7 @@
   - literal
   - expression
   - heap
-  - function
+  - function 👂 heard
   - procedure
   - method
   - class
